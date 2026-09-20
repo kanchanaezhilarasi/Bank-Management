@@ -1,7 +1,3 @@
-
-
-
-
 Create table customer(
   customer_id number(5) primary key,
   customer_name varchar2(30) NOT NULL,
