@@ -1,5 +1,4 @@
 # Bank-Management
-Bank Management System
 Bank Management System — SQL Project (Oracle)
 
 A relational database project simulating a simple banking system, built to demonstrate core to intermediate SQL skills: schema design, constraints, DML, transaction control, filtering, functions, aggregation, joins, window functions, and CTEs.
